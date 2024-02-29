@@ -28,8 +28,8 @@
  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
  
 # 📌 Pinned Repositories:
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AmirTghizde&repo=TSVAnalyzer&theme=dark&desc)](https://github.com/AmirTghizde/TSVAnalyzer)
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AmirTghizde&repo=ServiceOrderingSystem&theme=dark&desc)](https://github.com/AmirTghizde/ServiceOrderingSystem)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AmirTghizde&repo=TSVAnalyzer&theme=transparent&desc)](https://github.com/AmirTghizde/TSVAnalyzer)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AmirTghizde&repo=ServiceOrderingSystem&theme=transparent&desc)](https://github.com/AmirTghizde/ServiceOrderingSystem)
  
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AmirTghizde&theme=transparent&hide_border=false&include_all_commits=true&count_private=false)
