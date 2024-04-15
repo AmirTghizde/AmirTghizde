@@ -28,7 +28,7 @@
  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
  
 # 📌 Pinned Repositories:
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AmirTghizde&repo=ServiceOrderingSystem&theme=tokyonight)](https://github.com/AmirTghizde/ServiceOrderingSystem)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AmirTghizde&repo=ServiceOrderingSystem&theme=tokyonight)](https://github.com/AmirTghizde/service-ordering-system/tree/master)
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AmirTghizde&repo=front-end-collection&theme=tokyonight)](https://github.com/AmirTghizde/front-end-collection)
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AmirTghizde&repo=TSVAnalyzer&theme=tokyonight)](https://github.com/AmirTghizde/TSVAnalyzer)
  
