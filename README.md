@@ -4,7 +4,7 @@
 👨‍💻 Java back-end developer <br>
 📚 Currently studying computer software at Rudehen university, Iran <br>
 🛸 Sometimes I try front-end to change things up as well<br>
-💬 Ask me about Music,Games,Java
+💬 Ask me about music and Java
 
 # 💻 Tech Stack:
  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
