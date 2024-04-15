@@ -3,7 +3,7 @@
 
 👨‍💻 Java back-end developer <br>
 📚 Currently studying computer software at Rudehen university, Iran <br>
-🛸 Sometimes I try front-end to change things up as well
+🛸 Sometimes I try front-end to change things up as well<br>
 💬 Ask me about Music,Games,Java
 
 # 💻 Tech Stack:
