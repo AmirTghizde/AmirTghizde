@@ -41,9 +41,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
----
-<h3>Here's a random meme to make your day :)</h3>
-<img src='http://http://dev-memer.info/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AmirTghizde&icon=0&color=0)](https://visitcount.itsvg.in)
